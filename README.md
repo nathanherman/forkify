@@ -1,4 +1,4 @@
-# forkify project
+# Forkify Project
 
 Original Author: Jonas Schmedtmann 
 
